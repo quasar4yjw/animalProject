@@ -2,6 +2,6 @@ animalProject
 =============
 2014.11.22 ~ 2014.11.24
 
-BIT last competition
+BIT last mini competition
 
-Jungwoo YEOM / Yongho LEE(YonghoLee11) / Jungdam NA / Kihyun KIM(ki-hyun)
+Jungwoo YEOM / Yongho LEE(yonghoLee11) / Jeongdahm NA(jeongdahm) / Kihyun KIM(ki-hyun)
