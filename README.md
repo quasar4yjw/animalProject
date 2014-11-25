@@ -4,4 +4,4 @@ animalProject
 
 BIT last competition
 
-Jungwoo YEOM / Yongho LEE / Jungdam NA / Kihyun KIM
+Jungwoo YEOM / Yongho LEE(YonghoLee11) / Jungdam NA / Kihyun KIM(ki-hyun)
